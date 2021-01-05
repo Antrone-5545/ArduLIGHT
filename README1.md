@@ -1,0 +1,3 @@
+# Antrone - ArduLIGHT Project
+The ArduLIGHT project allows you to control the Addressable Lighting with an Arduino via a COM port. With ArduLIGHT, you can set the color of each LED individually, or use and customize the built-in modes. ArduLIGHT is based on the FastLED library, which provides support for many different LED models. For convenient control of ArduLIGHT, I also write an application for Windows called Project ILLUMIX.  Attention: Projects are at an early stage of development! I will be very grateful for your help in the design and development of the project. Enjoy!
+Project ILLUMIX: https://github.com/Antrone-5545/ProjectILLUMIX
