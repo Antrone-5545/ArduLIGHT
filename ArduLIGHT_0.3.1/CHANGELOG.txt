@@ -1,0 +1,6 @@
+Features
+1) Adapted to work with Project ILLUMIX 0.2.
+2) Small optimization, and Bug Fix.
+Bugs
+1) Twink mode does not work stably.
+2) In the first seconds, Arduino may not respond to commands from the computer.																																			
