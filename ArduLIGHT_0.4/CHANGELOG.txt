@@ -1,0 +1,12 @@
+Features
+1) Adapted to work with Project ILLUMIX 0.3
+2) lots Optimization, and Bug Fix.
+3) New Effects Added (tetris, single color)
+4) New DYNAMIC effect "Screen Follower"
+5) Brightness setting support
+6) hot applying support on some effects
+7) Last effect and settings applying automaticly after reboot!
+8) Twink mode fixed.
+Bugs
+1) In the first seconds, Arduino may not respond to commands from the computer.
+2) Manual effect, to buggy...																																			
