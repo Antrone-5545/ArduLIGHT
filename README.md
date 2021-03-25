@@ -14,10 +14,13 @@ You can set the color for each LED separately (indicating its number and color) 
 4)	Connect the pins of your LED Strip to Arduino (V to 5v, D to selected Arduino pin, and G to GND)
 5) Download Project ILLUMIX app to control ArduLIGHT.
 
-# All Effects
+# All Effects (ArduLIGHT 0.4)
 1) Manual controll (Set color of LEDs individually)
 2) Runing Light
 3) Colour cycle
 4) Rainbow
 5) Twink
 6) Ping-pong
+7) Tetris
+8) Static Color
+9) Screen Follower (ILLUMIX)
